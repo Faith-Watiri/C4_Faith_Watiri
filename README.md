@@ -1,6 +1,8 @@
-# C4_Faith_Watiri
-<<<<<<< HEAD
-Azubi first React project
-=======
-Azubi React Project
->>>>>>> 1dbecc3a04864b669a991da17b9e8558d9c66414
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
