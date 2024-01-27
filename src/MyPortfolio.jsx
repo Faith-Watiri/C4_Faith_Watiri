@@ -1,4 +1,7 @@
 import React from 'react';
+import Button from './components/Button';
+
+
 
 const MyPortfolio = () => {
 
@@ -16,6 +19,7 @@ const MyPortfolio = () => {
                 <h2>Education</h2>
                 <p>{education}</p>
 </section>
+<Button label="test"/>
 
 <section>
                 <h2>Professional Background</h2>

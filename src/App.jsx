@@ -1,14 +1,18 @@
 import React from 'react';
-import MyPortfolio from './MyPortfolio';
+import Button from './components/Button';
 
 
 function App() {
   
 return (
 <div>
-    <MyPortfolio/>
-      
-    </div>
+    {/* MyPortfolio  */}
+    {/* ... */}
+
+    <Button label="Login" />
+    <Button label="Signin" />
+
+      </div>
 
 
 
